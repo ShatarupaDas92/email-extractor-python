@@ -31,24 +31,28 @@ email-extractor-python/
 4. Saves the cleaned list to `output.txt`.
 
 📥 Sample Input (`input.txt`)
-Contact us at support@example.com or hr@company.org.
+Contact us at hr@company.org or info@service.net
 Also reach out to shatarupadas15@gmail.com for any collaboration!
 
 📤 Sample Output (`output.txt`)
 hr@company.org
+info@service.net
 shatarupadas15@gmail.com
-support@example.com
+
 
 🔄 How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/email-extractor-python.git
 2.Navigate to the folder:
+
 bash
   Copy
   Edit
   cd email-extractor-python
+  
 3.Run the script:
+
 bash
   Copy
   Edit
