@@ -51,15 +51,15 @@ shatarupadas15@gmail.com
 Navigate to the folder:
 
 bash
-Copy
-Edit
+
 cd email-extractor-python
+
 Run the script:
 
 bash
-Copy
-Edit
+
 python extract_emails.py
+
 Make sure Python is installed on your machine.
 
 🧠 What I Learned
