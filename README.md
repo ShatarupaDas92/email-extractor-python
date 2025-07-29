@@ -19,9 +19,13 @@ This project automates the task of extracting **email addresses** from a `.txt` 
 🗂️ Folder Structure
 
 email-extractor-python/
+
 ├── input.txt # Input file containing raw text with emails
+
 ├── output.txt # Output file to save extracted emails
+
 ├── extract_emails.py # Python script to automate the task
+
 ├── README.md # Project documentation
 
 🚀 How It Works
@@ -44,16 +48,21 @@ shatarupadas15@gmail.com
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/email-extractor-python.git
-2.Navigate to the folder:
+2. Navigate to the folder:
 
 bash
+
   Copy
+  
   Edit
+  
   cd email-extractor-python
   
-3.Run the script:
+3. Run the script:
 
 bash
+
   Copy
+  
   Edit
   python extract_emails.py
